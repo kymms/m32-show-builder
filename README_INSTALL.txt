@@ -1,7 +1,1 @@
-M32 Show File Builder V2.1
-
-Upload seluruh isi ZIP ke root repository GitHub Pages. Backup JSON dari V1 terlebih dahulu.
-Fokus: Input names, HPF, Bus names, CH→Bus tap points, Copy Mix.
-HPF ON menggunakan nilai 24 dan OFF menggunakan 0 pada field preamp; PERLU VERIFIKASI M32-Edit sebelum dipakai live.
-Bus→Matrix tidak ditulis; Matrix tetap baseline template. FX dan routing menyusul.
-Periksa recall offline dan jangan dipakai saat pertunjukan sebelum tes.
+V2.1.1 HPF FIX: preamp field 3 is Low Cut ON/OFF; field 4 is slope 24. Replace files in GitHub repository, commit, reload Safari. Verify HPF ON/OFF in M32-Edit offline. Keep JSON backup.
