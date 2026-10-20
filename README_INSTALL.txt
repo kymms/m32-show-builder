@@ -1,1 +1,1 @@
-V2.5.2 Mute Group Control. Backup JSON dahulu, upload 6 file ke root GitHub Pages. Uji hasil SCN di M32-Edit offline sebelum console live.
+M32 Show File Builder V2.6 — Reset Management dan tombol −∞. Upload keenam file ke root GitHub Pages. Backup JSON sebelum mencoba Reset All. Uji hasil SCN di M32-Edit offline.
